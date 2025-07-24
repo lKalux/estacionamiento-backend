@@ -1,0 +1,6 @@
+@ControlEstacionamientoBackend_HostAddress = http://localhost:5014
+
+GET {{ControlEstacionamientoBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
